@@ -1,6 +1,6 @@
 {
   "name": "ext-name-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the file extension and MIME type from a file",
   "license": "MIT",
   "repository": "kevva/ext-name-cli",
