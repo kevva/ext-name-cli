@@ -25,6 +25,11 @@ $ ext-name --help
 ```
 
 
+## Related
+
+* [ext-name](https://github.com/kevva/ext-name) - API for this module
+
+
 ## License
 
 MIT © [Kevin Martensson](http://github.com/kevva)
