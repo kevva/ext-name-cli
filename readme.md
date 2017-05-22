@@ -18,8 +18,15 @@ $ ext-name --help
   Usage
     $ ext-name <input>
 
+  Options
+    --mime Get extension and MIME type from a MIME type
+
   Example
     $ ext-name file.tar
+    tar
+    application/x-tar
+
+    $ ext-name --mime application/x-tar
     tar
     application/x-tar
 ```
